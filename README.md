@@ -1,8 +1,8 @@
-I'm Pedro
+#
+I'm Pedro Rossi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YksPdr&show_icons=true&theme=dark)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=YksPdr&layout=compact&theme=dark)
-
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
